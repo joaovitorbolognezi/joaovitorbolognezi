@@ -19,9 +19,6 @@ Aluno do 1 semestre de Engenharia de Software
 
 <p align="left"> <a href="https://www.github.com/joaovitorbolognezi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-bolognezi-portela-896596332/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/joaovitorbolognezi"><img src="https://github-readme-stats.vercel.app/api?username=joaovitorbolognezi&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=10b981&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="joaovitorbolognezi's GitHub stats" /></a>
 
