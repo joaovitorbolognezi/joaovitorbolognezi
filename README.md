@@ -23,5 +23,7 @@ Aluno do 1 semestre de Engenharia de Software
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorbolognezi&show_icons=true&theme=codeSTACKr&count_private=true)
-<a href="https://github.com/joaovitorbolognezi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorbolognezi&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0c141c&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/joaovitorbolognezi" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorbolognezi&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0c141c&hide_border=true&locale=en&custom_title=Top%20%Languages&cache_seconds=30" alt="Top Languages" />
+</a>
 
