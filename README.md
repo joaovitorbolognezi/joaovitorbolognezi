@@ -5,7 +5,7 @@ Aluno do 3 semestre de Engenharia de Software
 
 * 🌍  Maringá, PR, Brasil
 * ✉️  Contato: [joaovitor.b.portela@gmail.com](mailto:joaovitor.b.portela@gmail.com)
-* 🧠  Atualmente aprendendo Python
+* 🧠  Atualmente aprofundando conhecimento em Banco de Dados!
 
 ### Linguagens
 
@@ -19,6 +19,13 @@ Aluno do 3 semestre de Engenharia de Software
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="40" alt="git logo" />
+<img width="12" />
 </p>
 
 
