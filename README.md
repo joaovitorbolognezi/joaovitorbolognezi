@@ -1,11 +1,14 @@
-Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Sou o João Vitor Bolognezi
-============================================================================================================================================
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6C757D&center=true&vCenter=true&width=900&lines=João+Vitor+Bolognezi+Portela;Em+busca+da+primeira+oportunidade;Back-End+%7C+SQL+%7C+Node.js;Aprendizado+contínuo+e+dedicação" />
+</p>
+
+
 
 Aluno do 3 semestre de Engenharia de Software
 
 * 🌍  Maringá, PR, Brasil
 * ✉️  Contato: [joaovitor.b.portela@gmail.com](mailto:joaovitor.b.portela@gmail.com)
-* 🧠  Atualmente aprofundando conhecimento em Banco de Dados!
+* 🧠  Atualmente aprofundando conhecimento em Java!
 
 ### Linguagens
 
