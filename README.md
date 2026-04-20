@@ -8,7 +8,7 @@ Aluno do 3 semestre de Engenharia de Software
 
 * 🌍  Maringá, PR, Brasil
 * ✉️  Contato: [joaovitor.b.portela@gmail.com](mailto:joaovitor.b.portela@gmail.com)
-* 🧠  Atualmente aprofundando conhecimento em Java!
+* 🧠  Atualmente aprofundando conhecimento em JavaScript!
 
 ### Linguagens
 
