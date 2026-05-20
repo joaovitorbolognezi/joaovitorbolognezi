@@ -33,6 +33,8 @@ Aluno do 3 semestre de Engenharia de Software
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="40" alt="git logo" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+<img width="12" />
 </p>
 <br>
 
