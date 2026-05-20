@@ -1,17 +1,21 @@
+<br><br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6C757D&center=true&vCenter=true&width=900&lines=João+Vitor+Bolognezi+Portela;Em+busca+da+primeira+oportunidade;Back-End+%7C+SQL+%7C+Node.js;Aprendizado+contínuo+e+dedicação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6C757D&center=true&vCenter=true&width=900&lines=João+Vitor+Bolognezi+Portela;Desenvolvedor+Back-End+%7C+Python+%7C+SQL+%7C+Node.js;Aprendizado+contínuo+e+dedicação" />
 </p>
+<br>
 
-
+---
 
 Aluno do 3 semestre de Engenharia de Software
-
+<br>
 * 🌍  Maringá, PR, Brasil
 * ✉️  Contato: [joaovitor.b.portela@gmail.com](mailto:joaovitor.b.portela@gmail.com)
-* 🧠  Atualmente aprofundando conhecimento em JavaScript!
+* 🧠  Atualmente desenvolvemendo automações em Python!
+<br>
+
+---
 
 ### Linguagens
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -30,11 +34,21 @@ Aluno do 3 semestre de Engenharia de Software
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="40" alt="git logo" />
 <img width="12" />
 </p>
+<br>
 
+---
 
+### Sistemas Operacinoais
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br><br>
+
+---
 ### Contatos
-
 <p align="left"> <a href="https://www.github.com/joaovitorbolognezi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-bolognezi-portela-896596332/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<br>
+
+---
 
 ### GitHub Stats
 
