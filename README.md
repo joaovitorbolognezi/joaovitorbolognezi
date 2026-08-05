@@ -1,16 +1,16 @@
 <br><br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6C757D&center=true&vCenter=true&width=900&lines=João+Vitor+Bolognezi+Portela;Desenvolvedor+Back-End+%7C+Python+%7C+SQL+%7C+Node.js;Aprendizado+contínuo+e+dedicação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6C757D&center=true&vCenter=true&width=900&lines=João+Vitor+Bolognezi+Portela;Desenvolvedor+FullStack+%7C+Python+%7C+GO+%7C+React;Aprendizado+contínuo+e+dedicação!" />
 </p>
 <br>
 
 ---
 
-Aluno do 3 semestre de Engenharia de Software
+Aluno do 4° semestre de Engenharia de Software
 <br>
 * 🌍  Maringá, PR, Brasil
 * ✉️  Contato: [joaovitor.b.portela@gmail.com](mailto:joaovitor.b.portela@gmail.com)
-* 🧠  Atualmente desenvolvemendo automações em Python!
+* 🧠  Atualmente desenvolvemendo softwares em Python e React!
 <br>
 
 ---
