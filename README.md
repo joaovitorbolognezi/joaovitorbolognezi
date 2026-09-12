@@ -1,71 +1,114 @@
-<br><br>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6C757D&center=true&vCenter=true&width=900&lines=João+Vitor+Bolognezi+Portela;Desenvolvedor+FullStack+%7C+Python+%7C+GO+%7C+React;Aprendizado+contínuo+e+dedicação!" />
-</p>
-<br>
+# Hi there 👋, I'm João Vitor Bolognezi
+ 
+### Software Engineer Student | Full-Stack Developer | Cloud Infrastructure Enthusiast
+ 
+🔭 Currently working as a **Full-stack Software Engineering intern** at March 
+ 
+💻 Building backend and full-stack applications with Go, Node.js, Python, React and TypeScript
+
+☁️ Currently studying Cloud Computing, AWS and DevOps
+
+🎓 Software Engineering Student — Unicesumar (Expected graduation: December 2028)
+ 
+📍 Based in Maringá, Brazil 🇧🇷
+ 
+📫 Reach me at: **joaovitor.b.portela@gmail.com**
+ 
+---
+
+### 👨‍💻 About Me
+
+I'm a Software Engineering student interested in **backend development, cloud infrastructure and distributed systems**.
+
+I enjoy understanding how systems work under the hood and building practical solutions using **Go, Python, TypeScript and modern cloud technologies**.
+
+Currently, I'm focusing on **AWS, Docker, Linux and DevOps practices**.
 
 ---
 
-Aluno do 4° semestre de Engenharia de Software
-<br>
-* 🌍  Maringá, PR, Brasil
-* ✉️  Contato: [joaovitor.b.portela@gmail.com](mailto:joaovitor.b.portela@gmail.com)
-* 🧠  Atualmente desenvolvemendo softwares em Python e React!
-<br>
+### 💼 Experience
+
+**Software Engineering Intern — March**
+*May 2026 – Present*
+
+Developing backend and full-stack solutions.
+Working with **Go, Python, React, MySQL, SQLite and APIs**.
+Contributing to **automation, real-time systems and software infrastructure**.
+Working with data collection, processing and integration between different systems
 
 ---
+ 
+### 🚀 Featured Projects
+ 
+## **[API-Financeiro](https://github.com/joaovitorbolognezi/App-Financeiro)** 
 
-### Linguagens
+**Financial expense tracking system**
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="40" alt="git logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="ts logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="go logo"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="react logo"/>
-<img width="12" />
-          
-          
-<br>
+- Developed the backend and database integration.
+- Designed and implemented the REST API.
+- Integrated **PostgreSQL** using Prisma.
 
+**Node.js · Express · PostgreSQL · Prisma**
+
+##
+
+## ⚡ Building Automation & Infrastructure
+
+Contributing to an automation platform for monitoring and controlling building devices such as **lighting systems, air conditioning and EV chargers**.
+
+- Developing automation services with **Python**.
+- Working with **cloud infrastructure and deployment**.
+- Developing a local **Go agent** responsible for collecting device data and communicating with backend services through **WebSockets**.
+- Working with **real-time data flows** between devices, backend services and user interfaces.
+- Contributing to a **React + TypeScript** frontend built with **Vite and PWA technologies**.
+- Implementing reactive interfaces for users to monitor **EV charging status and queue information in real time**.
+
+##
+
+## 📊 Industrial Data Collection & Processing
+
+Developed a data collection pipeline for **industrial monitoring**.
+
+- Built a **Go agent** responsible for collecting data from a database containing information generated by industrial controllers (PLC).
+- Processed and transformed raw industrial measurements into meaningful data.
+- Applied **mathematical calculations and data transformations** to derive useful metrics.
+- Developed backend components in **Go** to process and expose the collected data through APIs.
+- The resulting data was intended for visualization in a **corporate monitoring dashboard**.
+  - Descriptions are intentionally high-level to avoid exposing proprietary implementation details.
 ---
-
-### Sistemas Operacinoais
+ 
+### 🛠️ Languages and Tools
+ 
+**Frontend:**
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+ 
+**Backend:**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+ 
+**Database:**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
+  
+**DevOps & Tools:**
+ 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br><br>
-
----
-### Contatos
-<p align="left"> <a href="https://www.github.com/joaovitorbolognezi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-bolognezi-portela-896596332/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-<br>
-
----
-
-### GitHub Stats
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorbolognezi&show_icons=true&theme=codeSTACKr&count_private=true)
-<a href="https://github.com/joaovitorbolognezi" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorbolognezi&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0c141c&hide_border=true&locale=en&custom_title=Top%20%Languages&cache_seconds=30" alt="Top Languages" />
-</a>
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ 
+### 🔗 Connect with me:
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-bolognezi-portela-896596332/)
