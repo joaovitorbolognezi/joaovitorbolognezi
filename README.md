@@ -2,8 +2,8 @@
  
 ### Software Engineer Student | Full-Stack Developer | Cloud Infrastructure Enthusiast
  
-🔭 Currently working as a **Full-stack Software Engineering intern** at March 
- 
+🔭 Currently working as a **Full-stack Software Developer** at LiveSEO, building AI-powered applications. 
+
 💻 Building backend and full-stack applications with Go, Node.js, Python, React and TypeScript
 
 ☁️ Currently studying Cloud Computing, AWS and DevOps
