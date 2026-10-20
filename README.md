@@ -28,8 +28,13 @@ Currently, I'm focusing on **AWS, Docker, Linux and DevOps practices**.
 
 ### 💼 Experience
 
+**Software Engineering Developer — LiveSEO**
+*Oct 2026 – Present*
+
+- 
+
 **Software Engineering Intern — March**
-*May 2026 – Present*
+*May 2026 – Oct 2026*
 
 Developing backend and full-stack solutions.
 Working with **Go, Python, React, MySQL, SQLite and APIs**.
